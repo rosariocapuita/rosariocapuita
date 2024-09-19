@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👋 Quem eu sou?</h3>
+<h3 align="left">🔥 Quem eu sou?</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">👋 Qual é a finalidade deste repositório?</h3>
+<h3 align="left">🛡️ Qual é a finalidade deste repositório?</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">👋 O que você encontrá aqui?</h3>
+<h3 align="left">🚀 O que você encontrá aqui?</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">👋  Tecnologias de interesse</h3>
+<h3 align="left">🏆  Tecnologias de interesse</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">👋 Minhas redes sociais</h3>
+<h3 align="left">👊 Minhas redes sociais</h3>
 
 ###
 
