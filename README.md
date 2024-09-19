@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Tutoriais e guias passo a passo;<br>📚 Scripts prontos para automação de tarefas;<br>🎯 Colecção de ferramentas essenciais para análise;<br>🎲 Relatórios e documentos técnicos.</p>
+<p align="left">✨ Tutoriais e guias passo a passo sobre configuração de dispositivos de rede e implementação de políticas de segurança.<br>📚 Scripts prontos para automação de tarefas de monitoramento e gerenciamento de rede.<br>🎯 Colecção de ferramentas essenciais para análise de vulnerabilidades e segurança de redes.<br>🎲 Relatórios e documentos técnicos explicando metodologias de segurança e boas práticas em redes.</p>
 
 ###
 
